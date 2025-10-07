@@ -1,3 +1,4 @@
 streamlit
 ultralytics
-PIL
+opencv-python-headless
+Pillow
